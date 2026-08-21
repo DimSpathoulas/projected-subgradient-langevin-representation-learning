@@ -1,2 +1,2 @@
-# non-smooth-sde-representation-learning
+# projected-subgradient-langevin-representation-learning
 Under Construction 
